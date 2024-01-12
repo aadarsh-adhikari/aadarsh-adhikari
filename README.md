@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Adhikari</h1>
-<h3 align="center">Just a simple guy learning a web development</h3>
-
+<h3 align="center">A regular guy exploring the world of web development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh-adhikari" /> </p>
