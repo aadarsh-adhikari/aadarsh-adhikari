@@ -1,24 +1,49 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Adhikari</h1>
 <h3 align="center">Just a simple guy learning a web development</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh-adhikari" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aadarsh-adhikari](https://github.com/aadarsh-adhikari)
 
-- 📫 How to reach me **aadarshadhikari111@gmail.com**
+### Connect with me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aadarshadhika13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarshadhika13" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aadarsh.adhikari.188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aadarsh.adhikari.188/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/adhikari_aadarsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adhikari_aadarsh/" height="30" width="40" /></a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aadarshadhika13)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aadarsh.adhikari.188/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adhikari_aadarsh/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### Languages and Tools
+# My Programming Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh-adhikari&show_icons=true&locale=en&layout=compact" alt="aadarsh-adhikari" /></p>
+## Front-End Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarsh-adhikari&show_icons=true&locale=en" alt="aadarsh-adhikari" /></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>  
+**Tags:** `HTML`, `CSS`, `JavaScript`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh-adhikari&" alt="aadarsh-adhikari" /></p>
+## Design Tools
+
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a> <a href="https://www.canva.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></a>  
+**Tags:** `Figma`, `Canva`
+
+## Content Management System (CMS)
+
+<a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a>  
+**Tags:** `WordPress`
+
+## Back-End Technologies
+
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>  
+**Tags:** `Java`, `PHP`, `MySQL`
+
+## Other Tools
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="Microsoft Word" width="40" height="40"/></a>  
+**Tags:** `Microsoft Word`
+
+Feel free to explore my repositories to see projects and examples of my work!
+
+
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadarsh-adhikari&show_icons=true&locale=en)
