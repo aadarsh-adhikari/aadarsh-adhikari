@@ -13,7 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adhikari_aadarsh/)
 
 ### Languages and Tools
-# My Programming Languages and Tools
 
 ## Front-End Technologies
 
@@ -35,13 +34,7 @@
 <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>  
 **Tags:** `Java`, `PHP`, `MySQL`
 
-## Other Tools
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/word/word-original.svg" alt="Microsoft Word" width="40" height="40"/></a>  
-**Tags:** `Microsoft Word`
-
 Feel free to explore my repositories to see projects and examples of my work!
-
 
 
 ### GitHub Stats
